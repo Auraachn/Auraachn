@@ -28,7 +28,7 @@ I'm a passionate Informatics student with a love for UI/UX and front-end develop
 <p align="left">
 <a href="https://github.com/Auraachn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=auraachn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auraachn&layout=compact"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=auraachn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
