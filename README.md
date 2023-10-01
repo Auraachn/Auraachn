@@ -24,6 +24,7 @@ I'm a passionate Informatics student with a love for UI/UX and front-end develop
 [![Instagram](https://img.shields.io/badge/Instagram-auraachn._-purple)](https://www.instagram.com/auraachn._/)
 
 ### GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=auraachn&layout=compact&show_icons=true&theme=dark) </br> </br>
 ![Aura Choirun Nisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=auraachn&show_icons=true&theme=dark)
 
 
