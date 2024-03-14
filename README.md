@@ -3,7 +3,7 @@
 I'm a passionate Informatics student with a love for UI/UX and front-end development.
 
 - 🔭 I’m currently working on projects in the Bangkit Program Batch 2 Year 2023, Cloud Engineering Path.
-- 🌱 I’m always eager to learn and improve my skills in UI/UX and front-end development.
+- 🌱 I’m always eager to learn and improve my skills in UI/UX and front-end development. And currently I'm also diving deeper into Data analytics.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Feel free to ask me about UI/UX, front-end technologies, or anything related to programming!
 
