@@ -1,22 +1,24 @@
 # Hi there, I'm Aura Choirun Nisa 👋
 
-I'm a passionate Informatics student with a love for UI/UX and front-end development.
+I'm a passionate Informatics student with a love for IT world.
 
-- 🔭 I’m currently working on projects in the Bangkit Program Batch 2 Year 2023, Cloud Engineering Path.
+- 🔭 I’m currently a student on MyEduSolve learning learning Data Analytics Path.
 - 🌱 I’m always eager to learn and improve my skills in UI/UX and front-end development. And currently I'm also diving deeper into Data analytics.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
-- 💬 Feel free to ask me about UI/UX, front-end technologies, or anything related to programming!
+- 💬 Feel free to ask me about UI/UX, front-back-end technologies, Data Analytics or anything related to programming!
 
 ### About Me
 
 - 🎓 Informatics Student at UPNVJT (Universitas Pembangunan Veteran Jawa Timur)
 - 📚 5th Semester
 - 🌟 Participating in the Bangkit Program Batch 2 Year 2023, Cloud Engineering Path
+- 🌟 Participating in the MSIB 6 MyEduSlove,  Data Analytics Path
 
 ### Interests
 
 - UI/UX Design
-- Front-end Development
+- Front & back-end Development
+- Data Analytics Path
 
 ### Connect with Me
 
